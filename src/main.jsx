@@ -27,10 +27,9 @@ const projects = [
 ];
 
 function App() {
-  const email = "your.email@example.com";
-  const github = "https://github.com/your-github-username";
-  const linkedin = "https://www.linkedin.com/in/your-linkedin-username/";
-
+  const email = "dhivakarbaskar06@gmail.com";
+  const github = "https://github.com/Dhivakar0819";
+  const linkedin = "https://www.linkedin.com/in/dhivakar08";
   return (
     <div className="site-shell">
       <div className="ambient ambient-one" />
